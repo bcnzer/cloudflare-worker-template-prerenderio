@@ -1,8 +1,8 @@
 # 👷 `cloudflare-worker-template-prerenderio` Prerender.io
 
-A template for kick starting a Cloudflare worker project with prerender.io
+A template for kick starting a Cloudflare worker project with [Prerender.io](https://prerenderio)
 
-[`index.js`](https://github.com/bcnzer/cloudflare-worker-template-prerenderio/blob/master/index.js) is the content of the Workers script with the [prerender.io](https://prerenderio) support. 
+[`index.js`](https://github.com/bcnzer/cloudflare-worker-template-prerenderio/blob/master/index.js) is the content of the Workers script with the [Prerender.io](https://prerenderio) support. 
 
 #### Configuration
 You need to enter your Prerender token. There is a variable `MY_PRERENDER_TOKEN` at the top of the file, between the single quotes.
